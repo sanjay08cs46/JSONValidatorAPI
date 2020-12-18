@@ -1,4 +1,4 @@
-package com.ahi.exp;
+package com.iqvia.jsonvalidator;
 
 import java.util.List;
 import java.util.Map;

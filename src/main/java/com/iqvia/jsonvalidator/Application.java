@@ -1,4 +1,4 @@
-package com.ahi.exp;
+package com.iqvia.jsonvalidator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
