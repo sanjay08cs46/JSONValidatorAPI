@@ -1,3 +1,5 @@
-com\ahi\exp\JsonController.class
-com\ahi\exp\JsonValidatorApplication.class
-com\ahi\exp\JsonService.class
+com\iqvia\jsonvalidator\JsonController.class
+com\iqvia\validator\main\xmlvalidator\XmlController.class
+com\iqvia\validator\main\xmlvalidator\XmlService.class
+com\iqvia\validator\main\Application.class
+com\iqvia\jsonvalidator\JsonService.class
